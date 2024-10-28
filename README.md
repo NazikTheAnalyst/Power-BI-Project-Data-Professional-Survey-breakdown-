@@ -27,3 +27,7 @@ o	Bar chart: Show the number of data analysts preferring each language.
 o	Treemap visualization: Map the distribution of language preferences across different geographic regions
 Dominant Languages: Identify the most popular programming languages among data analysts
 
+
+Dashboard : <a href = "https://github.com/NazikTheAnalyst/Power-BI-Project-Data-Professional-Survey-breakdown-/blob/main/biDashboard.jpg">DASHBOARD </a>
+
+
